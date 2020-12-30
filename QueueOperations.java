@@ -17,6 +17,8 @@ public class QueueOperations {
         waitingQueue.add("John");
         waitingQueue.add("Mark");
         waitingQueue.add("Steven");
+		 waitingQueue.add("Sara"); waitingQueue.add("robort"); waitingQueue.add("xylo");
+		
 
         System.out.println("WaitingQueue : " + waitingQueue);
      // Check if a Queue is empty
