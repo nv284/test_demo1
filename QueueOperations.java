@@ -30,7 +30,7 @@ public class QueueOperations {
         if(waitingQueue.contains(name)) {
             System.out.println("WaitingQueue contains " + name);
         } else {
-            System.out.println("Waiting Queue doesn't contain " + name);
+            System.out.println("Waiting Queue doesn't contain " + name); System.out.println("Waiting Queue doesn't contain " + name);
         }
         String fi =  waitingQueue.element();
         System.out.println("First Person in the Waiting Queue (element()) : " + fi);
